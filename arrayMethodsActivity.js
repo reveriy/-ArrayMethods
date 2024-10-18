@@ -1,4 +1,4 @@
-/
+
 const arr1 = ["Cecile", "Lone"];
 const arr2 = ["Emil", "Tobias", "Linus"];
 const combinedArr = arr1.concat(arr2);
